@@ -19,6 +19,7 @@ Frontend:
 Backend:
 
     Node.js
+    Nest.js
     Express.js
     MongoDB
     REST APIs
