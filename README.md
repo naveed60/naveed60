@@ -23,6 +23,9 @@ Backend:
     Express.js
     MongoDB
     REST APIs
+    Graphql
+    Prisma
+    Mysql
     PostgreSQL
    Ruby on Rails
    
