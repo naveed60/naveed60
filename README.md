@@ -1,6 +1,5 @@
 ## Hi, i'm Naveed Ali👋
-Full Stack Developer (MERN/Next.js)
-
+Full Stack Developer (MERN/Next.js)(Ruby on Rails)
 I am a dedicated and enthusiastic Full Stack Developer with a passion for both frontend and backend technologies. My continuous drive for learning keeps me at the forefront of the latest industry trends. I thrive on solving complex problems and am committed to using the best tools available to deliver high-quality solutions. Beyond coding, I am actively engaged in sports and various extracurricular activities, which contribute to my holistic development.
 
 🛠️ Tools and Technologies
@@ -19,24 +18,26 @@ Frontend:
 Backend:
 
     Node.js
+    Ruby on Rails
     Nest.js
     Express.js
     MongoDB
     REST APIs
     Graphql
-    Prisma
     Mysql
     PostgreSQL
+    Stripe
    Ruby on Rails
    
 DevOps and Other Tools:
 
     Docker
     Git & GitHub 
+    Kamal
     
 📧 Contact Information
 
 Email:imnaveed60@gmail.com
 🌐 Let's Connect
-
+https://www.linkedin.com/in/naveed-ali-31841025b/
 Feel free to reach out to me via email. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
