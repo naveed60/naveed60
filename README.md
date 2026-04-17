@@ -56,13 +56,13 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,bootstrap,mui,tailwind,sass&perline=6" />
 
 ### ⚙️ **Backend Wizardry**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql,mongodb,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql,mongodb,postgres,postman,prisma&perline=6" />
 
 ### ☁️ **DevOps & Cloud Magic**
 <img src="https://skillicons.dev/icons?i=aws,docker,redis&perline=6" />
 
 ### 🧰 **Tools & Practices**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jest,webpack&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,,webpack&perline=6" />
 
 </div>
 
