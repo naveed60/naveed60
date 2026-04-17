@@ -85,9 +85,9 @@ const naveedFocus = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-junaid021/)
-[![Email](https://img.shields.io/badge/Email-Collaborate-red?style=for-the-badge&logo=gmail)](mailto:iamjunaid021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Junaid083)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveed-ali-31841025b/)
+[![Email](https://img.shields.io/badge/Email-Collaborate-red?style=for-the-badge&logo=gmail)](mailto:imnaveed60@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/naveed60)
 
 </div>
 
