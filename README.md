@@ -53,10 +53,10 @@
 <div align="center">
 
 ### 🔥 **Frontend Sorcery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,bootstrsap,mui,tailwind,sass&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,bootstrap,mui,tailwind,sass&perline=6" />
 
 ### ⚙️ **Backend Wizardry**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby on rails,graphql,mongodb,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql,mongodb,postgres&perline=6" />
 
 ### ☁️ **DevOps & Cloud Magic**
 <img src="https://skillicons.dev/icons?i=aws,docker,redis&perline=6" />
@@ -71,7 +71,7 @@
 ## 🎯 Current Focus: **Expanding the Digital Horizon**
 
 ```typescript
-const junaidsFocus = {
+const naveedFocus = {
   learning: ["System Design", "AWS Solutions Architecture", "Microservices"],
   crafting: ["Scalable Full-Stack Applications", "Cloud-Native Solutions"],
   exploring: ["AI/ML Integration in Web Apps", "Blockchain & Web3"],
