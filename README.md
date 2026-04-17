@@ -53,13 +53,13 @@
 <div align="center">
 
 ### 🔥 **Frontend Sorcery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,tailwind,sass&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,bootstrsap,mui,tailwind,sass&perline=6" />
 
 ### ⚙️ **Backend Wizardry**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby on rails,graphql,mongodb,postgres&perline=6" />
 
 ### ☁️ **DevOps & Cloud Magic**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,docker,redis&perline=6" />
 
 ### 🧰 **Tools & Practices**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jest,webpack&perline=6" />
