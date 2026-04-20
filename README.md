@@ -53,7 +53,7 @@
 <div align="center">
 
 ### 🔥 **Frontend Sorcery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,bootstrap,mui,tailwind,sass&perline=6" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,bootstrap,mui,tailwind,sass&perline=6" />
 
 ### ⚙️ **Backend Wizardry**
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql,mongodb,postgres,postman,prisma&perline=6" />
