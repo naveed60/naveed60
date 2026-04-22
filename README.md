@@ -30,7 +30,7 @@
   <div align="left" width="55%">
     
   🔮 **Crafting Digital Experiences:**
-  - 🏗️ Architecting next-gen MERN stack solutions
+  - 🏗️ Architecting next-gen MERN stack and Ruby on Rails solutions
   - 🌱 Perpetual learner of cutting-edge technologies
   - 🤝 Open-source enthusiast and collaborator
   - 🎓 Mentor for aspiring web developers
@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,bootstrap,mui,tailwind,sass&perline=6" />
 
 ### ⚙️ **Backend Wizardry**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rails,graphql,mongodb,postgres,postman,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby,rails,graphql,mongodb,postgres,postman,prisma&perline=6" />
 
 ### ☁️ **DevOps & Cloud Magic**
 <img src="https://skillicons.dev/icons?i=aws,docker,redis&perline=6" />
