@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ruby,rails,graphql,mongodb,postgres,postman,prisma&perline=6" />
 
 ### ☁️ **DevOps & Cloud Magic**
-<img src="https://skillicons.dev/icons?i=aws,docker,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,aws,redis&perline=6" />
 
 ### 🧰 **Tools & Practices**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack&perline=6" />
