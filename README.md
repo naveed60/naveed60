@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,aws,redis&perline=6" />
 
 ### 🧰 **Tools & Practices**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,webpack&perline=6" />
 
 </div>
 
